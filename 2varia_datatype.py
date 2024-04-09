@@ -36,3 +36,5 @@ print(type(child))
 # 3. Float   --> contain decimal values
 
 # 4. Boolean --> contain only two value i.e. 'TRUE' or 'FALSE'
+
+# 5. None    --> contain none value
