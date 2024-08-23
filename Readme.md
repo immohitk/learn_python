@@ -2,12 +2,22 @@
 
 |##### | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Commenting](./1hellow_comm.py)|
-| 02  |  [Variables & Data Type](./2varia_datatype.py)|
-| 03  |  [Calculation](./3sum_diff_etc.py)|
-| 04  |  [Expression Execution](./4express_execu.py)|
-| 05  |  [Input function](./5input_python.py)|
-| 06  |  [Condition Statement](./6cond_statement.py)|
+| 01  |  [Commenting](./01hellow_comm.py)|
+| 02  |  [Variables & Data Type](./02varia_datatype.py)|
+| 03  |  [Input function](./03input_python.py)|
+| 04  |  [Expression Execution](./04express_execu.py)|
+| 05  |  [Condition Statement](./05cond_statement.py)|
+| 06  |  [Operators](./06operators.py)|
+| 07  |  [Type Conversion and Type Casting](./07type_conver_cast.py)|
+| 08  |  [Strings](./08strings.py)|
+| 09  |  [List](./09list.py)|
+| 10  |  [Tuples](./10tuple.py)|
+| 11  |  [Dictionary](./11dictionary.py)|
+| 12  |  [Sets](./12sets.py)|
+| 13  |  [Loops](./13loops.py)|
+| 14  |  [Functions](./14functions.py)|
+| 15  |  [Recursion](./15recursion.py)|
+
 
 
 ## Introduction

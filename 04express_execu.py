@@ -11,7 +11,7 @@ print(2*Txt*3)
 
 
 
-# 2--> ( String and string can operate with ' + ') (also known as concatination)
+# 2--> ( String and string can operate with ' + ') (also known as concatination)   (concatenation)
 
 C = "2"
 D = 3

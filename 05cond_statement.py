@@ -14,7 +14,9 @@ else:
 
 """
 #------EXAMPLE 1---------#
+
 """
+
 light = input ("light colour : ")
 
 if(light == "red"):
@@ -26,9 +28,10 @@ elif(light == "green"):
 else:
     print("light is broken")
 
-
+"""
 
 #------EXAMPLE 2----------#
+"""
     
 marks = int(input("marks obtained : "))
 
@@ -41,27 +44,31 @@ elif(marks >= 50 and marks < 80):
 else:
     print("FAILED")
 
-
+"""
 
 
 #--------Single line If / Ternary Operator---------#
     
 
 # <var> = <val1> if <condition> else <val2>
-    
+
+"""    
 food = input("food :")
 eat = "Yes" if food == "cake" else "No"
 print(eat)
 
+"""
+
 
 # <stt1> if <condition> else <stt2>
 
+"""
 food = input("food :")
 print("Sweet") if food == "cake" or food == "jalebi" else print("not sweet")
 
-
-
 """
+
+
 
 #--------Clever If / Ternary Operator---------#
 
@@ -74,6 +81,10 @@ vote = ("yes", "no") [age < 18]
 print (vote)
 
 """
+
+"""
 sal = float(input("salary :"))
 tax = sal*(0.1, 0.2) [sal <= 500000]
 print (tax)
+
+"""
