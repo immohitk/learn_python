@@ -17,6 +17,9 @@
 | 13  |  [Loops](./13loops.py)|
 | 14  |  [Functions](./14functions.py)|
 | 15  |  [Recursion](./15recursion.py)|
+| 16  |  [File I/O](./16in_out.py)|
+| 17  |  [OOP(Part1)](./17OOP(1).py)|
+| 18  |  [OOP(Part2)](./18OPP(2).py)|
 
 
 
